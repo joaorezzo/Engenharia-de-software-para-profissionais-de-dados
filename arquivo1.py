@@ -3,4 +3,4 @@
 nome = 'João Otávio'
 sobrenome = 'Cardoso'       
 
-print(nome + sobrenome)    
+print(f"Nome: {nome}, ultimo nome {sobrenome}")    
